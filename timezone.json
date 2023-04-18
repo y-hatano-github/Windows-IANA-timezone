@@ -433,10 +433,6 @@
     },
     {
         "tz_windows": "Atlantic Standard Time",
-        "tz_iana": "America/Halifax"
-    },
-    {
-        "tz_windows": "Atlantic Standard Time",
         "tz_iana": "America/Glace_Bay"
     },
     {
@@ -1741,7 +1737,7 @@
     {
         "tz_windows": "Central Pacific Standard Time",
         "tz_iana": "Pacific/Noumea"
-    }
+    },
     {
         "tz_windows": "Central Pacific Standard Time",
         "tz_iana": "Pacific/Efate"
