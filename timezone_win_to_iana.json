@@ -1,0 +1,1160 @@
+[
+    {
+        "tz_windows":"Dateline Standard Time",
+        "tz_iana":[
+            "Etc/GMT+12"
+        ]
+    },
+    {
+        "tz_windows":"UTC-11",
+        "tz_iana":[
+            "Etc/GMT+11",
+            "Pacific/Pago_Pago",
+            "Pacific/Niue"
+        ]
+    },
+    {
+        "tz_windows":"UTC-11",
+        "tz_iana":[
+            "Pacific/Midway"
+        ]
+    },
+    {
+        "tz_windows":"Aleutian Standard Time",
+        "tz_iana":[
+            "America/Adak"
+        ]
+    },
+    {
+        "tz_windows":"Hawaiian Standard Time",
+        "tz_iana":[
+            "Pacific/Honolulu",
+            "Pacific/Rarotonga",
+            "Pacific/Tahiti",
+            "Pacific/Johnston",
+            "Etc/GMT+10"
+        ]
+    },
+    {
+        "tz_windows":"Marquesas Standard Time",
+        "tz_iana":[
+            "Pacific/Marquesas"
+        ]
+    },
+    {
+        "tz_windows":"Alaskan Standard Time",
+        "tz_iana":[
+            "America/Anchorage",
+            "America/Juneau",
+            "America/Metlakatla",
+            "America/Nome",
+            "America/Sitka",
+            "America/Yakutat"
+        ]
+    },
+    {
+        "tz_windows":"UTC-09",
+        "tz_iana":[
+            "Etc/GMT+9",
+            "Pacific/Gambier"
+        ]
+    },
+    {
+        "tz_windows":"Pacific Standard Time (Mexico)",
+        "tz_iana":[
+            "America/Tijuana",
+            "America/Santa_Isabel"
+        ]
+    },
+    {
+        "tz_windows":"UTC-08",
+        "tz_iana":[
+            "Etc/GMT+8",
+            "Pacific/Pitcairn"
+        ]
+    },
+    {
+        "tz_windows":"Pacific Standard Time",
+        "tz_iana":[
+            "America/Los_Angeles",
+            "America/Vancouver",
+            "PST8PDT"
+        ]
+    },
+    {
+        "tz_windows":"US Mountain Standard Time",
+        "tz_iana":[
+            "America/Phoenix",
+            "America/Creston",
+            "America/Dawson_Creek",
+            "America/Fort_Nelson",
+            "America/Hermosillo",
+            "Etc/GMT+7"
+        ]
+    },
+    {
+        "tz_windows":"Mountain Standard Time (Mexico)",
+        "tz_iana":[
+            "America/Chihuahua",
+            "America/Mazatlan"
+        ]
+    },
+    {
+        "tz_windows":"Mountain Standard Time",
+        "tz_iana":[
+            "America/Denver",
+            "America/Edmonton",
+            "America/Cambridge_Bay",
+            "America/Inuvik",
+            "America/Yellowknife",
+            "America/Ojinaga",
+            "America/Boise",
+            "MST7MDT"
+        ]
+    },
+    {
+        "tz_windows":"Yukon Standard Time",
+        "tz_iana":[
+            "America/Whitehorse",
+            "America/Dawson"
+        ]
+    },
+    {
+        "tz_windows":"Central America Standard Time",
+        "tz_iana":[
+            "America/Guatemala",
+            "America/Belize",
+            "America/Costa_Rica",
+            "Pacific/Galapagos",
+            "America/Tegucigalpa",
+            "America/Managua",
+            "America/El_Salvador",
+            "Etc/GMT+6"
+        ]
+    },
+    {
+        "tz_windows":"Central Standard Time",
+        "tz_iana":[
+            "America/Chicago",
+            "America/Winnipeg",
+            "America/Rainy_River",
+            "America/Rankin_Inlet",
+            "America/Resolute",
+            "America/Matamoros",
+            "America/Indiana/Knox",
+            "America/Indiana/Tell_City",
+            "America/Menominee",
+            "America/North_Dakota/Beulah",
+            "America/North_Dakota/Center",
+            "America/North_Dakota/New_Salem",
+            "CST6CDT"
+        ]
+    },
+    {
+        "tz_windows":"Easter Island Standard Time",
+        "tz_iana":[
+            "Pacific/Easter"
+        ]
+    },
+    {
+        "tz_windows":"Central Standard Time (Mexico)",
+        "tz_iana":[
+            "America/Mexico_City",
+            "America/Bahia_Banderas",
+            "America/Merida",
+            "America/Monterrey"
+        ]
+    },
+    {
+        "tz_windows":"Canada Central Standard Time",
+        "tz_iana":[
+            "America/Regina",
+            "America/Swift_Current"
+        ]
+    },
+    {
+        "tz_windows":"SA Pacific Standard Time",
+        "tz_iana":[
+            "America/Bogota",
+            "America/Rio_Branco",
+            "America/Eirunepe",
+            "America/Coral_Harbour",
+            "America/Guayaquil",
+            "America/Jamaica",
+            "America/Cayman",
+            "America/Panama",
+            "America/Lima",
+            "Etc/GMT+5"
+        ]
+    },
+    {
+        "tz_windows":"Eastern Standard Time (Mexico)",
+        "tz_iana":[
+            "America/Cancun"
+        ]
+    },
+    {
+        "tz_windows":"Eastern Standard Time",
+        "tz_iana":[
+            "America/New_York",
+            "America/Nassau",
+            "America/Toronto",
+            "America/Iqaluit",
+            "America/Montreal",
+            "America/Nipigon",
+            "America/Pangnirtung",
+            "America/Thunder_Bay",
+            "America/Detroit",
+            "America/Indiana/Petersburg",
+            "America/Indiana/Vincennes",
+            "America/Indiana/Winamac",
+            "America/Kentucky/Monticello",
+            "America/Louisville",
+            "EST5EDT"
+        ]
+    },
+    {
+        "tz_windows":"Haiti Standard Time",
+        "tz_iana":[
+            "America/Port-au-Prince"
+        ]
+    },
+    {
+        "tz_windows":"Cuba Standard Time",
+        "tz_iana":[
+            "America/Havana"
+        ]
+    },
+    {
+        "tz_windows":"US Eastern Standard Time",
+        "tz_iana":[
+            "America/Indianapolis",
+            "America/Indiana/Marengo",
+            "America/Indiana/Vevay"
+        ]
+    },
+    {
+        "tz_windows":"Turks And Caicos Standard Time",
+        "tz_iana":[
+            "America/Grand_Turk"
+        ]
+    },
+    {
+        "tz_windows":"Paraguay Standard Time",
+        "tz_iana":[
+            "America/Asuncion"
+        ]
+    },
+    {
+        "tz_windows":"Atlantic Standard Time",
+        "tz_iana":[
+            "America/Halifax",
+            "Atlantic/Bermuda",
+            "America/Glace_Bay",
+            "America/Goose_Bay",
+            "America/Moncton",
+            "America/Thule"
+        ]
+    },
+    {
+        "tz_windows":"Venezuela Standard Time",
+        "tz_iana":[
+            "America/Caracas"
+        ]
+    },
+    {
+        "tz_windows":"Central Brazilian Standard Time",
+        "tz_iana":[
+            "America/Cuiaba",
+            "America/Campo_Grande"
+        ]
+    },
+    {
+        "tz_windows":"SA Western Standard Time",
+        "tz_iana":[
+            "America/La_Paz",
+            "America/Antigua",
+            "America/Anguilla",
+            "America/Aruba",
+            "America/Barbados",
+            "America/St_Barthelemy",
+            "America/Kralendijk",
+            "America/Manaus",
+            "America/Boa_Vista",
+            "America/Porto_Velho",
+            "America/Blanc-Sablon",
+            "America/Curacao",
+            "America/Dominica",
+            "America/Santo_Domingo",
+            "America/Grenada",
+            "America/Guadeloupe",
+            "America/Guyana",
+            "America/St_Kitts",
+            "America/St_Lucia",
+            "America/Marigot",
+            "America/Martinique",
+            "America/Montserrat",
+            "America/Puerto_Rico",
+            "America/Lower_Princes",
+            "America/Port_of_Spain",
+            "America/St_Vincent",
+            "America/Tortola",
+            "America/St_Thomas",
+            "Etc/GMT+4"
+        ]
+    },
+    {
+        "tz_windows":"Pacific SA Standard Time",
+        "tz_iana":[
+            "America/Santiago"
+        ]
+    },
+    {
+        "tz_windows":"Newfoundland Standard Time",
+        "tz_iana":[
+            "America/St_Johns"
+        ]
+    },
+    {
+        "tz_windows":"Tocantins Standard Time",
+        "tz_iana":[
+            "America/Araguaina"
+        ]
+    },
+    {
+        "tz_windows":"E. South America Standard Time",
+        "tz_iana":[
+            "America/Sao_Paulo"
+        ]
+    },
+    {
+        "tz_windows":"SA Eastern Standard Time",
+        "tz_iana":[
+            "America/Cayenne",
+            "Antarctica/Rothera",
+            "Antarctica/Palmer",
+            "America/Fortaleza",
+            "America/Belem",
+            "America/Maceio",
+            "America/Santarem",
+            "America/Recife",
+            "Atlantic/Stanley",
+            "America/Paramaribo",
+            "Etc/GMT+3"
+        ]
+    },
+    {
+        "tz_windows":"Argentina Standard Time",
+        "tz_iana":[
+            "America/Buenos_Aires",
+            "America/Argentina/La_Rioja",
+            "America/Argentina/Rio_Gallegos",
+            "America/Argentina/Salta",
+            "America/Argentina/San_Juan",
+            "America/Argentina/San_Luis",
+            "America/Argentina/Tucuman",
+            "America/Argentina/Ushuaia",
+            "America/Catamarca",
+            "America/Cordoba",
+            "America/Jujuy",
+            "America/Mendoza"
+        ]
+    },
+    {
+        "tz_windows":"Greenland Standard Time",
+        "tz_iana":[
+            "America/Godthab"
+        ]
+    },
+    {
+        "tz_windows":"Montevideo Standard Time",
+        "tz_iana":[
+            "America/Montevideo"
+        ]
+    },
+    {
+        "tz_windows":"Magallanes Standard Time",
+        "tz_iana":[
+            "America/Punta_Arenas"
+        ]
+    },
+    {
+        "tz_windows":"Saint Pierre Standard Time",
+        "tz_iana":[
+            "America/Miquelon"
+        ]
+    },
+    {
+        "tz_windows":"Bahia Standard Time",
+        "tz_iana":[
+            "America/Bahia"
+        ]
+    },
+    {
+        "tz_windows":"UTC-02",
+        "tz_iana":[
+            "Etc/GMT+2",
+            "America/Noronha",
+            "Atlantic/South_Georgia"
+        ]
+    },
+    {
+        "tz_windows":"Azores Standard Time",
+        "tz_iana":[
+            "Atlantic/Azores",
+            "America/Scoresbysund"
+        ]
+    },
+    {
+        "tz_windows":"Cape Verde Standard Time",
+        "tz_iana":[
+            "Atlantic/Cape_Verde",
+            "Etc/GMT+1"
+        ]
+    },
+    {
+        "tz_windows":"UTC",
+        "tz_iana":[
+            "Etc/UTC",
+            "Etc/GMT"
+        ]
+    },
+    {
+        "tz_windows":"GMT Standard Time",
+        "tz_iana":[
+            "Europe/London",
+            "Atlantic/Canary",
+            "Atlantic/Faeroe",
+            "Europe/Guernsey",
+            "Europe/Dublin",
+            "Europe/Isle_of_Man",
+            "Europe/Jersey",
+            "Europe/Lisbon",
+            "Atlantic/Madeira"
+        ]
+    },
+    {
+        "tz_windows":"Greenwich Standard Time",
+        "tz_iana":[
+            "Atlantic/Reykjavik",
+            "Africa/Ouagadougou",
+            "Africa/Abidjan",
+            "Africa/Accra",
+            "America/Danmarkshavn",
+            "Africa/Banjul",
+            "Africa/Conakry",
+            "Africa/Bissau",
+            "Africa/Monrovia",
+            "Africa/Bamako",
+            "Africa/Nouakchott",
+            "Atlantic/St_Helena",
+            "Africa/Freetown",
+            "Africa/Dakar",
+            "Africa/Lome"
+        ]
+    },
+    {
+        "tz_windows":"Sao Tome Standard Time",
+        "tz_iana":[
+            "Africa/Sao_Tome"
+        ]
+    },
+    {
+        "tz_windows":"Morocco Standard Time",
+        "tz_iana":[
+            "Africa/Casablanca",
+            "Africa/El_Aaiun"
+        ]
+    },
+    {
+        "tz_windows":"W. Europe Standard Time",
+        "tz_iana":[
+            "Europe/Berlin",
+            "Europe/Andorra",
+            "Europe/Vienna",
+            "Europe/Zurich",
+            "Europe/Busingen",
+            "Europe/Gibraltar",
+            "Europe/Rome",
+            "Europe/Vaduz",
+            "Europe/Luxembourg",
+            "Europe/Monaco",
+            "Europe/Malta",
+            "Europe/Amsterdam",
+            "Europe/Oslo",
+            "Europe/Stockholm",
+            "Arctic/Longyearbyen",
+            "Europe/San_Marino",
+            "Europe/Vatican"
+        ]
+    },
+    {
+        "tz_windows":"Central Europe Standard Time",
+        "tz_iana":[
+            "Europe/Budapest",
+            "Europe/Tirane",
+            "Europe/Prague",
+            "Europe/Podgorica",
+            "Europe/Belgrade",
+            "Europe/Ljubljana",
+            "Europe/Bratislava"
+        ]
+    },
+    {
+        "tz_windows":"Romance Standard Time",
+        "tz_iana":[
+            "Europe/Paris",
+            "Europe/Brussels",
+            "Europe/Copenhagen",
+            "Africa/Ceuta"
+        ]
+    },
+    {
+        "tz_windows":"Central European Standard Time",
+        "tz_iana":[
+            "Europe/Warsaw",
+            "Europe/Sarajevo",
+            "Europe/Zagreb",
+            "Europe/Skopje"
+        ]
+    },
+    {
+        "tz_windows":"W. Central Africa Standard Time",
+        "tz_iana":[
+            "Africa/Lagos",
+            "Africa/Luanda",
+            "Africa/Porto-Novo",
+            "Africa/Kinshasa",
+            "Africa/Bangui",
+            "Africa/Brazzaville",
+            "Africa/Douala",
+            "Africa/Algiers",
+            "Africa/Libreville",
+            "Africa/Malabo",
+            "Africa/Niamey",
+            "Africa/Ndjamena",
+            "Africa/Tunis",
+            "Etc/GMT-1"
+        ]
+    },
+    {
+        "tz_windows":"Jordan Standard Time",
+        "tz_iana":[
+            "Asia/Amman"
+        ]
+    },
+    {
+        "tz_windows":"GTB Standard Time",
+        "tz_iana":[
+            "Europe/Bucharest",
+            "Asia/Nicosia",
+            "Asia/Famagusta",
+            "Europe/Athens"
+        ]
+    },
+    {
+        "tz_windows":"n/a",
+        "tz_iana":[
+            "Asia/Beirut"
+        ]
+    },
+    {
+        "tz_windows":"Egypt Standard Time",
+        "tz_iana":[
+            "Africa/Cairo"
+        ]
+    },
+    {
+        "tz_windows":"E. Europe Standard Time",
+        "tz_iana":[
+            "Europe/Chisinau"
+        ]
+    },
+    {
+        "tz_windows":"Syria Standard Time",
+        "tz_iana":[
+            "Asia/Damascus"
+        ]
+    },
+    {
+        "tz_windows":"West Bank Standard Time",
+        "tz_iana":[
+            "Asia/Hebron",
+            "Asia/Gaza"
+        ]
+    },
+    {
+        "tz_windows":"South Africa Standard Time",
+        "tz_iana":[
+            "Africa/Johannesburg",
+            "Africa/Bujumbura",
+            "Africa/Gaborone",
+            "Africa/Lubumbashi",
+            "Africa/Maseru",
+            "Africa/Blantyre",
+            "Africa/Maputo",
+            "Africa/Kigali",
+            "Africa/Mbabane",
+            "Africa/Lusaka",
+            "Africa/Harare",
+            "Etc/GMT-2"
+        ]
+    },
+    {
+        "tz_windows":"FLE Standard Time",
+        "tz_iana":[
+            "Europe/Kiev",
+            "Europe/Mariehamn",
+            "Europe/Sofia",
+            "Europe/Tallinn",
+            "Europe/Helsinki",
+            "Europe/Vilnius",
+            "Europe/Riga",
+            "Europe/Uzhgorod",
+            "Europe/Zaporozhye"
+        ]
+    },
+    {
+        "tz_windows":"Israel Standard Time",
+        "tz_iana":[
+            "Asia/Jerusalem"
+        ]
+    },
+    {
+        "tz_windows":"South Sudan Standard Time",
+        "tz_iana":[
+            "Africa/Juba"
+        ]
+    },
+    {
+        "tz_windows":"Kaliningrad Standard Time",
+        "tz_iana":[
+            "Europe/Kaliningrad"
+        ]
+    },
+    {
+        "tz_windows":"Sudan Standard Time",
+        "tz_iana":[
+            "Africa/Khartoum"
+        ]
+    },
+    {
+        "tz_windows":"Libya Standard Time",
+        "tz_iana":[
+            "Africa/Tripoli"
+        ]
+    },
+    {
+        "tz_windows":"Namibia Standard Time",
+        "tz_iana":[
+            "Africa/Windhoek"
+        ]
+    },
+    {
+        "tz_windows":"Arabic Standard Time",
+        "tz_iana":[
+            "Asia/Baghdad"
+        ]
+    },
+    {
+        "tz_windows":"Turkey Standard Time",
+        "tz_iana":[
+            "Europe/Istanbul"
+        ]
+    },
+    {
+        "tz_windows":"Arab Standard Time",
+        "tz_iana":[
+            "Asia/Riyadh",
+            "Asia/Bahrain",
+            "Asia/Kuwait",
+            "Asia/Qatar",
+            "Asia/Aden"
+        ]
+    },
+    {
+        "tz_windows":"Belarus Standard Time",
+        "tz_iana":[
+            "Europe/Minsk"
+        ]
+    },
+    {
+        "tz_windows":"Russian Standard Time",
+        "tz_iana":[
+            "Europe/Moscow",
+            "Europe/Kirov",
+            "Europe/Simferopol"
+        ]
+    },
+    {
+        "tz_windows":"E. Africa Standard Time",
+        "tz_iana":[
+            "Africa/Nairobi",
+            "Antarctica/Syowa",
+            "Africa/Djibouti",
+            "Africa/Asmera",
+            "Africa/Addis_Ababa",
+            "Indian/Comoro",
+            "Indian/Antananarivo",
+            "Africa/Mogadishu",
+            "Africa/Dar_es_Salaam",
+            "Africa/Kampala",
+            "Indian/Mayotte",
+            "Etc/GMT-3"
+        ]
+    },
+    {
+        "tz_windows":"Iran Standard Time",
+        "tz_iana":[
+            "Asia/Tehran"
+        ]
+    },
+    {
+        "tz_windows":"Arabian Standard Time",
+        "tz_iana":[
+            "Asia/Dubai",
+            "Asia/Muscat",
+            "3Etc/GMT-4"
+        ]
+    },
+    {
+        "tz_windows":"Astrakhan Standard Time",
+        "tz_iana":[
+            "Europe/Astrakhan",
+            "Europe/Ulyanovsk"
+        ]
+    },
+    {
+        "tz_windows":"Azerbaijan Standard Time",
+        "tz_iana":[
+            "Asia/Baku"
+        ]
+    },
+    {
+        "tz_windows":"Russia Time Zone 3",
+        "tz_iana":[
+            "Europe/Samara"
+        ]
+    },
+    {
+        "tz_windows":"Mauritius Standard Time",
+        "tz_iana":[
+            "Indian/Mauritius",
+            "Indian/Reunion",
+            "Indian/Mahe"
+        ]
+    },
+    {
+        "tz_windows":"Saratov Standard Time",
+        "tz_iana":[
+            "Europe/Saratov"
+        ]
+    },
+    {
+        "tz_windows":"Georgian Standard Time",
+        "tz_iana":[
+            "Asia/Tbilisi"
+        ]
+    },
+    {
+        "tz_windows":"Volgograd Standard Time",
+        "tz_iana":[
+            "Europe/Volgograd"
+        ]
+    },
+    {
+        "tz_windows":"Caucasus Standard Time",
+        "tz_iana":[
+            "Asia/Yerevan"
+        ]
+    },
+    {
+        "tz_windows":"Afghanistan Standard Time",
+        "tz_iana":[
+            "Asia/Kabul"
+        ]
+    },
+    {
+        "tz_windows":"West Asia Standard Time",
+        "tz_iana":[
+            "Asia/Tashkent",
+            "Antarctica/Mawson",
+            "Asia/Oral",
+            "Asia/Aqtau",
+            "Asia/Aqtobe",
+            "Asia/Atyrau",
+            "Indian/Maldives",
+            "Indian/Kerguelen",
+            "Asia/Dushanbe",
+            "Asia/Ashgabat",
+            "Asia/Samarkand",
+            "Etc/GMT-5"
+        ]
+    },
+    {
+        "tz_windows":"Ekaterinburg Standard Time",
+        "tz_iana":[
+            "Asia/Yekaterinburg"
+        ]
+    },
+    {
+        "tz_windows":"Pakistan Standard Time",
+        "tz_iana":[
+            "Asia/Karachi"
+        ]
+    },
+    {
+        "tz_windows":"Qyzylorda Standard Time",
+        "tz_iana":[
+            "Asia/Qyzylorda"
+        ]
+    },
+    {
+        "tz_windows":"India Standard Time",
+        "tz_iana":[
+            "Asia/Calcutta"
+        ]
+    },
+    {
+        "tz_windows":"Sri Lanka Standard Time",
+        "tz_iana":[
+            "Asia/Colombo"
+        ]
+    },
+    {
+        "tz_windows":"Nepal Standard Time",
+        "tz_iana":[
+            "Asia/Katmandu"
+        ]
+    },
+    {
+        "tz_windows":"Central Asia Standard Time",
+        "tz_iana":[
+            "Asia/Almaty",
+            "Antarctica/Vostok",
+            "Asia/Urumqi",
+            "Indian/Chagos",
+            "Asia/Bishkek",
+            "Asia/Qostanay",
+            "Etc/GMT-6"
+        ]
+    },
+    {
+        "tz_windows":"Bangladesh Standard Time",
+        "tz_iana":[
+            "Asia/Dhaka",
+            "Asia/Thimphu"
+        ]
+    },
+    {
+        "tz_windows":"Omsk Standard Time",
+        "tz_iana":[
+            "Asia/Omsk"
+        ]
+    },
+    {
+        "tz_windows":"Myanmar Standard Time",
+        "tz_iana":[
+            "Asia/Rangoon",
+            "Indian/Cocos"
+        ]
+    },
+    {
+        "tz_windows":"SE Asia Standard Time",
+        "tz_iana":[
+            "Asia/Bangkok",
+            "Antarctica/Davis",
+            "Indian/Christmas",
+            "Asia/Jakarta",
+            "Asia/Pontianak",
+            "Asia/Phnom_Penh",
+            "Asia/Vientiane",
+            "Asia/Saigon",
+            "Etc/GMT-7"
+        ]
+    },
+    {
+        "tz_windows":"Altai Standard Time",
+        "tz_iana":[
+            "Asia/Barnaul"
+        ]
+    },
+    {
+        "tz_windows":"W. Mongolia Standard Time",
+        "tz_iana":[
+            "Asia/Hovd"
+        ]
+    },
+    {
+        "tz_windows":"North Asia Standard Time",
+        "tz_iana":[
+            "Asia/Krasnoyarsk",
+            "Asia/Novokuznetsk"
+        ]
+    },
+    {
+        "tz_windows":"N. Central Asia Standard Time",
+        "tz_iana":[
+            "Asia/Novosibirsk"
+        ]
+    },
+    {
+        "tz_windows":"Tomsk Standard Time",
+        "tz_iana":[
+            "Asia/Tomsk"
+        ]
+    },
+    {
+        "tz_windows":"China Standard Time",
+        "tz_iana":[
+            "Asia/Shanghai",
+            "Asia/Hong_Kong",
+            "Asia/Macau"
+        ]
+    },
+    {
+        "tz_windows":"North Asia East Standard Time",
+        "tz_iana":[
+            "Asia/Irkutsk"
+        ]
+    },
+    {
+        "tz_windows":"Singapore Standard Time",
+        "tz_iana":[
+            "Asia/Singapore",
+            "Asia/Brunei",
+            "Asia/Makassar",
+            "Asia/Kuching",
+            "Asia/Kuala_Lumpur",
+            "Asia/Manila",
+            "Etc/GMT-8"
+        ]
+    },
+    {
+        "tz_windows":"W. Australia Standard Time",
+        "tz_iana":[
+            "Australia/Perth"
+        ]
+    },
+    {
+        "tz_windows":"Taipei Standard Time",
+        "tz_iana":[
+            "Asia/Taipei"
+        ]
+    },
+    {
+        "tz_windows":"Ulaanbaatar Standard Time",
+        "tz_iana":[
+            "Asia/Ulaanbaatar",
+            "Asia/Choibalsan"
+        ]
+    },
+    {
+        "tz_windows":"Aus Central W. Standard Time",
+        "tz_iana":[
+            "Australia/Eucla"
+        ]
+    },
+    {
+        "tz_windows":"Transbaikal Standard Time",
+        "tz_iana":[
+            "Asia/Chita"
+        ]
+    },
+    {
+        "tz_windows":"Tokyo Standard Time",
+        "tz_iana":[
+            "Asia/Tokyo",
+            "Asia/Jayapura",
+            "Pacific/Palau",
+            "Asia/Dili",
+            "Etc/GMT-9"
+        ]
+    },
+    {
+        "tz_windows":"North Korea Standard Time",
+        "tz_iana":[
+            "Asia/Pyongyang"
+        ]
+    },
+    {
+        "tz_windows":"Korea Standard Time",
+        "tz_iana":[
+            "Asia/Seoul"
+        ]
+    },
+    {
+        "tz_windows":"Yakutsk Standard Time",
+        "tz_iana":[
+            "Asia/Yakutsk",
+            "Asia/Khandyga"
+        ]
+    },
+    {
+        "tz_windows":"Cen. Australia Standard Time",
+        "tz_iana":[
+            "Australia/Adelaide",
+            "Australia/Broken_Hill"
+        ]
+    },
+    {
+        "tz_windows":"AUS Central Standard Time",
+        "tz_iana":[
+            "Australia/Darwin"
+        ]
+    },
+    {
+        "tz_windows":"E. Australia Standard Time",
+        "tz_iana":[
+            "Australia/Brisbane",
+            "Australia/Lindeman"
+        ]
+    },
+    {
+        "tz_windows":"AUS Eastern Standard Time",
+        "tz_iana":[
+            "Australia/Sydney",
+            "Australia/Melbourne"
+        ]
+    },
+    {
+        "tz_windows":"West Pacific Standard Time",
+        "tz_iana":[
+            "Pacific/Port_Moresby",
+            "Antarctica/DumontDUrville",
+            "Pacific/Truk",
+            "Pacific/Guam",
+            "Pacific/Saipan",
+            "Etc/GMT-10"
+        ]
+    },
+    {
+        "tz_windows":"Tasmania Standard Time",
+        "tz_iana":[
+            "Australia/Hobart",
+            "Australia/Currie",
+            "Antarctica/Macquarie"
+        ]
+    },
+    {
+        "tz_windows":"Vladivostok Standard Time",
+        "tz_iana":[
+            "Asia/Vladivostok",
+            "Asia/Ust-Nera"
+        ]
+    },
+    {
+        "tz_windows":"Lord Howe Standard Time",
+        "tz_iana":[
+            "Australia/Lord_Howe"
+        ]
+    },
+    {
+        "tz_windows":"Bougainville Standard Time",
+        "tz_iana":[
+            "Pacific/Bougainville"
+        ]
+    },
+    {
+        "tz_windows":"Russia Time Zone 10",
+        "tz_iana":[
+            "Asia/Srednekolymsk"
+        ]
+    },
+    {
+        "tz_windows":"Magadan Standard Time",
+        "tz_iana":[
+            "Asia/Magadan"
+        ]
+    },
+    {
+        "tz_windows":"Norfolk Standard Time",
+        "tz_iana":[
+            "Pacific/Norfolk"
+        ]
+    },
+    {
+        "tz_windows":"Sakhalin Standard Time",
+        "tz_iana":[
+            "Asia/Sakhalin"
+        ]
+    },
+    {
+        "tz_windows":"Central Pacific Standard Time",
+        "tz_iana":[
+            "Pacific/Guadalcanal",
+            "Antarctica/Casey",
+            "Pacific/Ponape",
+            "Pacific/Kosrae",
+            "Pacific/Noumea",
+            "Pacific/Efate",
+            "Etc/GMT-11"
+        ]
+    },
+    {
+        "tz_windows":"Russia Time Zone 11",
+        "tz_iana":[
+            "Asia/Kamchatka",
+            "Asia/Anadyr"
+        ]
+    },
+    {
+        "tz_windows":"New Zealand Standard Time",
+        "tz_iana":[
+            "Pacific/Auckland",
+            "Antarctica/McMurdo"
+        ]
+    },
+    {
+        "tz_windows":"UTC+12",
+        "tz_iana":[
+            "Etc/GMT-12",
+            "Pacific/Tarawa",
+            "Pacific/Majuro",
+            "Pacific/Kwajalein",
+            "Pacific/Nauru",
+            "Pacific/Funafuti",
+            "Pacific/Wake",
+            "Pacific/Wallis"
+        ]
+    },
+    {
+        "tz_windows":"Fiji Standard Time",
+        "tz_iana":[
+            "Pacific/Fiji"
+        ]
+    },
+    {
+        "tz_windows":"Chatham Islands Standard Time",
+        "tz_iana":[
+            "Pacific/Chatham"
+        ]
+    },
+    {
+        "tz_windows":"UTC+13",
+        "tz_iana":[
+            "Etc/GMT-13",
+            "Pacific/Enderbury",
+            "Pacific/Fakaofo"
+        ]
+    },
+    {
+        "tz_windows":"Tonga Standard Time",
+        "tz_iana":[
+            "Pacific/Tongatapu"
+        ]
+    },
+    {
+        "tz_windows":"Samoa Standard Time",
+        "tz_iana":[
+            "Pacific/Apia"
+        ]
+    },
+    {
+        "tz_windows":"Line Islands Standard Time",
+        "tz_iana":[
+            "Pacific/Kiritimati",
+            "Etc/GMT-14"
+        ]
+    }
+]
